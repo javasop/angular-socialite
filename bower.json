@@ -1,0 +1,30 @@
+{
+  "name": "angular-socialite",
+  "version": "1.0.0",
+  "main": "angular-socialite.js",
+  "ignore": [
+    "node_modules",
+    "components",
+    "**/.*",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": ">1.0.0"
+  },
+  "devDependencies": {
+  },
+  "homepage": "https://github.com/javasop/angular-socialite",
+  "authors": [
+    "javasop <osamah.net.m@gmail.com>"
+  ],
+  "description": "an angular social sharing module based on socialite",
+  "keywords": [
+    "social",
+    "sharing",
+    "socialite",
+    "angualrjs"
+  ],
+  "license": "MIT"
+}
